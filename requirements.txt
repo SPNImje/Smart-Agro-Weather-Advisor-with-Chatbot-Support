@@ -1,0 +1,6 @@
+Flask==2.3.2
+requests==2.31.0
+python-dotenv==1.0.0
+twilio==9.1.0
+# vonage removed - Vonage integration rolled back
+# pandas removed: using stdlib csv to avoid heavy build requirements on Windows
